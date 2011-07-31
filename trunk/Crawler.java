@@ -17,19 +17,6 @@
  * Status: In dezvoltare
  */
 
-/* De Facut pentru v2:
- * ---------------Algortimi------------------
- * 
- * -------------Functionalitatii-------------
- * 1. Criptare Fisier Detalii [IMPORTANT]
- * 2. GOTO LINE -> mergi la linie in textarea[MEDIU]
- * 3. Buton Refresh Fisier Server FTP[MEDIU]
- * 4. Tabbed Pane pentru deschidere fisiere[OPTIONAL]
- * 5. Afisare ultimele proiecte salvate[MEDIU]
- * 6. Traducere in Engleza [IMPORTANT]
- * 7. Criptare fisiere multiple [MEDIU]
- */
-
 package Proiect;
 
 import java.awt.*;
