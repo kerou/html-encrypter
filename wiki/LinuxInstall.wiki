@@ -1,7 +1,7 @@
 #labels Featured,Phase-Deploy
-#How to run HTML Encrypter on Linux.
+= How to run HTML Encrypter on Linux. =
 
-= Steps to follow =
+== Steps to follow ==
 
   * Download the latest release from the download section.
   * Unzip the archive anywhere on your computer.
