@@ -1,0 +1,13 @@
+#labels Featured,Phase-Deploy
+#How to run HTML Encrypter on Linux.
+
+= Steps to follow =
+
+  * Download the latest release from the download section.
+  * Unzip the archive anywhere on your computer.
+  * Right click on Encrypter.java and select *Properties*
+  * Choose the *Permissions* tab
+  * Tick the *Allow executing file as program* checkbox
+  * Click *Close* and now you can open the application under Linux
+
+_If the steps above are followed correctly, you should have no problem in running HTML Encrypter._
