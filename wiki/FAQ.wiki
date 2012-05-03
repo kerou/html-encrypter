@@ -14,7 +14,7 @@ No, you don't need to install it, because the archive contains an executable .ja
 Because it is written in the object-oriented language of Java, HTML Encrypter is portable across all platforms supported by Java, whether Windows, Linux or Mac OS.
 
 ==Is it free?==
----- 
+----
 It's free and open source. Those of you who want to improve the application can do so, but remember that the application is under a Creative Commons Attribution 3.0 Unported license.
 
 ==What does the archive file contain?==
