@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XML_DIZ_INFO>
+	<MASTER_PAD_VERSION_INFO>
+		<MASTER_PAD_VERSION>3.10</MASTER_PAD_VERSION>
+		<MASTER_PAD_EDITOR>Online PAD Generator 1.33 - http://www.padbuilder.com</MASTER_PAD_EDITOR>
+		<MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information to anyone interested in their software products. To find out more go to http://www.asp-shareware.org/pad</MASTER_PAD_INFO>
+	</MASTER_PAD_VERSION_INFO>
+	<Company_Info>
+		<Company_Name />
+		<Address_1 />
+		<Address_2 />
+		<City_Town />
+		<State_Province />
+		<Zip_Postal_Code />
+		<Country />
+		<Company_WebSite_URL />
+		<Contact_Info>
+			<Author_First_Name>Stefan</Author_First_Name>
+			<Author_Last_Name>Cosma</Author_Last_Name>
+			<Author_Email>stefcosma@gmail.com</Author_Email>
+			<Contact_First_Name />
+			<Contact_Last_Name />
+			<Contact_Email />
+		</Contact_Info>
+		<Support_Info>
+			<Sales_Email />
+			<Support_Email />
+			<General_Email />
+			<Sales_Phone />
+			<Support_Phone />
+			<General_Phone />
+			<Fax_Phone />
+		</Support_Info>
+	</Company_Info>
+	<Program_Info>
+		<Program_Name>HTML Encrypter</Program_Name>
+		<Program_Version>2.0</Program_Version>
+		<Program_Release_Month>26</Program_Release_Month>
+		<Program_Release_Day>04</Program_Release_Day>
+		<Program_Release_Year>2012</Program_Release_Year>
+		<Program_Cost_Dollars />
+		<Program_Cost_Other_Code />
+		<Program_Cost_Other />
+		<Program_Type>Freeware</Program_Type>
+		<Program_Release_Status>New Release</Program_Release_Status>
+		<Program_Install_Support />
+		<Program_OS_Support>Linux,Mac OS X,Win7 x32,Win7 x64,WinVista,WinVista x64,WinXP</Program_OS_Support>
+		<Program_Language>English</Program_Language>
+		<Program_Change_Info />
+		<Program_Specific_Category>Utilities</Program_Specific_Category>
+		<Program_Category_Class>Security &amp; Privacy::Encryption Tools</Program_Category_Class>
+		<Program_Categories />
+		<Program_System_Requirements>Java 2 Standard Edition Runtime Environment</Program_System_Requirements>
+		<File_Info>
+			<File_Size_Bytes />
+			<File_Size_K />
+			<File_Size_MB />
+		</File_Info>
+		<Expire_Info>
+			<Has_Expire_Info>N</Has_Expire_Info>
+			<Expire_Count />
+			<Expire_Based_On />
+			<Expire_Other_Info />
+			<Expire_Month />
+			<Expire_Day />
+			<Expire_Year />
+		</Expire_Info>
+	</Program_Info>
+	<Program_Descriptions>
+		<English>
+			<Keywords>Cryptography, Internet, Source code browsing,  Open Source, Open Source Software, Development, Community, Source Code, Secure,  Downloads, Free Software,HTML Encrypter, HTML, Encrypter, Stefan Cosma, Stefan, Cosma</Keywords>
+			<Char_Desc_45>Smart encryption made simple!</Char_Desc_45>
+			<Char_Desc_80>HTML Encrypter is designed as an accessible and easy-to-use encryption software.</Char_Desc_80>
+			<Char_Desc_250>A tool designed as an accessible and easy-to-use encryption software.</Char_Desc_250>
+			<Char_Desc_450>HTML Encrypter is an encryption and decryption application developed in Java. The application uses a number of algorithms to encrypt and decrypt the HTML source code</Char_Desc_450>
+			<Char_Desc_2000>HTML Encrypter is an encryption and decryption application developed in Java. The application uses a number of algorithms to encrypt and decrypt the HTML source code:   - Blowfish   - AES   - TEA   - Rabbit   - MARC 4   - Escape/Unescape functions    In addition to the encryption and decryption functions, the application also returns the source code of a website. The user has the ability to upload the encrypted file, using the FTP transfer feature, to his or hers personal website. Additional features are listed below.   · One time encryption NEW  · Source code edit feature NEW  · Check for new app updates NEW  · Save user preferences NEW  · Undo/Redo functions NEW  · Search history  · Log file  · System tray  · Open URL</Char_Desc_2000>
+		</English>
+	</Program_Descriptions>
+	<Web_Info>
+		<Application_URLs>
+			<Application_Info_URL>http://www.htmlencrypter.call-to-action.ro/about</Application_Info_URL>
+			<Application_Order_URL />
+			<Application_Screenshot_URL>http://html-encrypter.googlecode.com/svn/wiki/1.png</Application_Screenshot_URL>
+			<Application_Icon_URL>http://download.codeplex.com/Download?ProjectName=htmlencrypter&amp;DownloadId=364543&amp;Build=18924</Application_Icon_URL>
+			<Application_XML_File_URL />
+		</Application_URLs>
+		<Download_URLs>
+			<Primary_Download_URL>http://html-encrypter.googlecode.com/files/he_v2.zip</Primary_Download_URL>
+			<Secondary_Download_URL />
+			<Additional_Download_URL_1 />
+			<Additional_Download_URL_2 />
+		</Download_URLs>
+	</Web_Info>
+	<Permissions>
+		<Distribution_Permissions />
+		<EULA />
+	</Permissions>
+</XML_DIZ_INFO>
