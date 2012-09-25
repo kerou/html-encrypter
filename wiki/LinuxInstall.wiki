@@ -11,4 +11,5 @@
   * Click *Close* and now you can open the application under Linux
 
 _If the steps above are followed correctly, you should have no problem in running HTML Encrypter. If any problems occur don't hesitate in contacting me [http://www.htmlencrypter.call-to-action.ro/contact here]._
+
 _For HTML Encrypter to work properly on a Linux based machine you need a version of Java between 1.5 and the latest._
