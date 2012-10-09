@@ -8,8 +8,9 @@
   * Right click on Encrypter.jar and select *Properties*
   * Choose the *Permissions* tab
   * Tick the *Allow executing file as program* checkbox
-  * Click *Close* and now you can open the application under Linux
+  * Click *Close* 
+  * You can now open the application under Linux based on the version of your Java version
 
 _If the steps above are followed correctly, you should have no problem in running HTML Encrypter. If any problems occur don't hesitate in contacting me [http://www.htmlencrypter.call-to-action.ro/contact here]._
 
-_For HTML Encrypter to work properly on a Linux based machine you need a version of Java between 1.5 and the latest._
+_For HTML Encrypter to work properly on a Linux based machine you need a version of Java between 1.6.25 and the latest._
